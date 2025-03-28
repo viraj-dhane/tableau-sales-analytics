@@ -12,12 +12,13 @@ This user story outlines the specifications for building two dashboards using ta
 
 ## Sales Dashboard | Requirements
 
-- Dashboard Purpose
+### Dashboard Purpose
+
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
-- Key Requirements
+### Key Requirements
 
-KPI Overview
+KPI Overview:
 Display a summary of total sales, profits and quantity for the current year and the previous year.
 
 Sales Trends
