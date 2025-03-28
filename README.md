@@ -26,13 +26,13 @@ Sales Trends
 -    Identify months with highest and lowest sales and make them easy to recognize.
 
 Product Subcategory Comparison
-    -	Compare sales performance by different product subcategories for the current year and the previous year.
-    -	Include a comparison of sales with profit.
+-    Compare sales performance by different product subcategories for the current year and the previous year.
+-    Include a comparison of sales with profit.
 
 Weekly Trends for Sales & Profit
-    -	Present weekly sales and profit data for the current year.
-    -	Display the average weekly values.
-    -	Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+-    Present weekly sales and profit data for the current year.
+-    Display the average weekly values.
+-    Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
 
 
