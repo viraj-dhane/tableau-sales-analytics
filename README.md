@@ -19,6 +19,7 @@ The purpose of the sales dashboard is to present an overview of the sales metric
 ### Key Requirements
 
 KPI Overview:
+
 Display a summary of total sales, profits and quantity for the current year and the previous year.
 
 Sales Trends
